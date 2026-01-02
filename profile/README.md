@@ -23,6 +23,7 @@ The official Dwahfy app (premium UI) is proprietary and closed-source.
 
 ## Community
 Issues & contributions welcome!
+
 Join the discussion on [Discord](https://discord.gg/mm9dbNxdb6 "Join the Dwahfy community") ! 
 
 Made with ❤️ by Dwahfy Team
