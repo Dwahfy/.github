@@ -53,4 +53,4 @@ Issues & contributions welcome across all open-source repos!
 
 *Made with ❤️ by Eyad and the Dwahfy open-source community.*
 
-*Backend © 2026 Apache 2.0 · Official UI © 2026 Dwahfy — All rights reserved*
+*Backend © 2026  AGPL-3.0 license · Community UI @ 2026 Apache 2.0 · Official UI © 2026 Dwahfy — All rights reserved*
