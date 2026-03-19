@@ -29,7 +29,7 @@ A simple, open-source web client built for self-hosters and contributors. Includ
 
 | Component | License |
 |---|---|
-| Dwahfy-Core (Backend) | Apache 2.0 — use, modify, host, even commercially |
+| Dwahfy-Core (Backend) | AGPL-3.0 license — use, modify, host |
 | Community Web UI | Apache 2.0 — open for contributions |
 | Official Dwahfy App UI | Proprietary & closed-source |
 
